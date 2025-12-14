@@ -1,4 +1,4 @@
-name: Fast Code Base64 30s (Win 2022/11)
+name: Fast Code Base64 30s (Win 2022/10)
 
 on:
   workflow_dispatch:
